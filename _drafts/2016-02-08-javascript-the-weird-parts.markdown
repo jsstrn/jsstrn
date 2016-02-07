@@ -66,6 +66,26 @@ console.log(window.a) // 3
 
 ## Context
 
+Let's try running this line of code in the console.
+
+```
+> console.log(this)
+```
+
+When we run `console.log(this)` in the console we get back the `Window` object, so `this` refers to `Window` in this context.
+
+Now let's run this in the console and see what we get back.
+
+```js
+function foo () {
+  console.log(this)
+}
+
+foo() // same as calling window.foo()
+```
+
+We still get back `Window` because when we call `foo()` we are actually calling `window.foo()` so `this` will refer to `Window`
+
 ## References
 
 [JavaScript is weird... and awesome!][js-video]
