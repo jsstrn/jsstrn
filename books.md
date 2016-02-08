@@ -4,6 +4,8 @@ title: Books
 permalink: /books/
 ---
 
+A list of (mostly) free online books.
+
 ## JavaScript
 
 - [Eloquent JavaScript by Marijn Haverbeke][js-eloquent]
