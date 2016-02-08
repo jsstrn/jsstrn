@@ -13,7 +13,7 @@ function Person (name, age, location) {
   this.age = age
   this.location = location
   this.introduction = function () {
-    return `Hi, my name is ${}. I am ${this.age} and I live in ${location}.`
+    return `Hi, my name is ${this.name}. I am ${this.age} and I live in ${location}.`
   }
 }
 ```
