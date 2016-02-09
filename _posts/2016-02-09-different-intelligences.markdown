@@ -4,6 +4,8 @@ title:  "Different Types of Intelligences"
 date:   2016-02-09 00:00:00 +0800
 categories: video
 ---
+![Animals have to climb a tree as a form of fair assessment](/images/animals-climb-tree-intelligence.jpg)
+
 In this video by Big Think, Howard Gardner talks about the different types of intelligences that people have. The first two, linguistic intelligence and mathematical intelligence, are what traditional standardized tests valorize.
 
 0. **Linguistic intelligence** is the ability to use language. A skill which writers, poets, journalists, and orators possess.
