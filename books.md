@@ -10,7 +10,7 @@ A list of (mostly) free online books.
 
 - [Eloquent JavaScript by Marijn Haverbeke][js-eloquent]
 - [Learning JavaScript Design Patterns by Addy Osmani][js-design-patterns]
-- [Exploring ES6][js-es6]
+- [Exploring ES6 by Axel Rauschmayer][js-es6]
 - [List of free JavaScript books][js-books]
 
 <!-- links -->
