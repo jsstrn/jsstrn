@@ -25,3 +25,7 @@ A list of (mostly) free online books.
 
 <!-- links -->
 [py-books]: http://pythonbooks.revolunet.com/
+
+## Physics
+
+- [The Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
