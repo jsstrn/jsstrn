@@ -13,13 +13,13 @@ A list of (mostly) free online books.
 - [Learning JavaScript Design Patterns by Addy Osmani][js-design-patterns]
 - [Exploring ES6 by Axel Rauschmayer][js-es6]
 - [You Don't Know JS series](https://github.com/getify/You-Dont-Know-JS)
- - [Up & Going][ydkjs-1]
- - [Scope & Closures][ydkjs-2]
- - [`this` & Object Prototypes][ydkjs-3]
- - [Types & Grammar][ydkjs-4]
- - [Async & Performance][ydkjs-5]
- - [ES6 and Beyond][ydkjs-6]
- - [All the books in one GitBook](https://rileygelwicks.gitbooks.io/you-dont-know-js/content/)
+ + [Up & Going][ydkjs-1]
+ + [Scope & Closures][ydkjs-2]
+ + [`this` & Object Prototypes][ydkjs-3]
+ + [Types & Grammar][ydkjs-4]
+ + [Async & Performance][ydkjs-5]
+ + [ES6 and Beyond][ydkjs-6]
+ + [All the books in one GitBook](https://rileygelwicks.gitbooks.io/you-dont-know-js/content/)
 
 <!-- links -->
 [js-eloquent]: http://eloquentjavascript.net/
