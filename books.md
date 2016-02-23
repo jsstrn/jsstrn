@@ -12,7 +12,8 @@ A list of (mostly) free online books.
 - [Eloquent JavaScript by Marijn Haverbeke][js-eloquent]
 - [Learning JavaScript Design Patterns by Addy Osmani][js-design-patterns]
 - [Exploring ES6 by Axel Rauschmayer][js-es6]
-- [You Don't Know JS series](https://github.com/getify/You-Dont-Know-JS)
+
+### [You Don't Know JS series by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
  + [Up & Going][ydkjs-1]
  + [Scope & Closures][ydkjs-2]
  + [`this` & Object Prototypes][ydkjs-3]
