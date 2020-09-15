@@ -1,3 +1,3 @@
-# Hello, world! 
+# Hello, world! 👋
 
-My name is Jesstern Rays and I am a software engineer. This is where I keep my code repositories. 
+My name is Jesstern Rays and I am a software engineer. I enjoy writing clean, maintainable code through test-driven development. 🚀
