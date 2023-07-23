@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-Hi, I'm Jesstern. I'm a software engineer based in Singapore. 
+Writing code for fun and profit since 2007.
 
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/jsstrn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/jesstern/)
